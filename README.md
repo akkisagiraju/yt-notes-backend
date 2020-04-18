@@ -5,7 +5,7 @@ Backend for my YouTube notes extension built with Express, NodeJS and MongoDB
 ### To-do
 
 - [x] Sign up route
-- [ ] Password hashing
+- [x] Password hashing
 - [ ] Login route
 - [ ] JWT Token for authentication
 - [ ] Notes route (GET, POST)
